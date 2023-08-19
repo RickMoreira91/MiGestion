@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Mi Gestión</string>
+    <string name="btnSplash">Menú</string>
+
+    <!--Strings de menú-->
+    <string name="cvProveedor">Proveedores</string>
+    <string name="cvCliente">Clientes</string>
+    <string name="cvProducto">Productos</string>
+    <string name="cvEntrada">Entradas</string>
+    <string name="cvSalida">Salidas</string>
+
+    <!--Strings de lista de proveedores-->
+    <string name="viewRazonSocialProveedor">Razón Social</string>
+    <string name="viewDireccionProveedor">Dirección</string>
+    <string name="viewTelefonoProveedor">Teléfono</string>
+    <string name="viewUrlProveedor">Web</string>
+    <string name="viewCorreoElectronicoProveedor">Correo Electrónico</string>
+
+    <!--Strings de nuevo proveedor-->
+    <string name="etRazonSocialProveedor">Razón Social</string>
+    <string name="etDireccionProveedor">Dirección</string>
+    <string name="etTelefonoProveedor">Teléfono</string>
+    <string name="etUrlProveedor">Web</string>
+    <string name="etCorreoElectronicoProveedor">Correo Electrónico</string>
+
+    <!--Strings de nuevo cliente-->
+    <string name="etNombreCliente">Nombre(s)</string>
+    <string name="etApellidoCliente">Apellido(s)</string>
+    <string name="etDireccionCliente">Dirección</string>
+    <string name="etTelefonoCliente">Teléfono</string>
+
+    <!--Strings de nuevo producto-->
+    <string name="etNombreProducto">Nombre</string>
+    <string name="etPrecioProducto">Precio</string>
+    <string name="etStockInicialProducto">Stock Inicial</string>
+
+    <!--Strings de lista producto-->
+    <string name="tvPrecioProducto">C$: </string>
+    <string name="tvStockInicialProducto">Existencia: </string>
+</resources>

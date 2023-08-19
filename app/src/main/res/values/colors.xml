@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fabMenu">#2596be</color>
+    <color name="fabAgregar">#4CAF50</color>
+    <color name="fabRegresar">#F44336</color>
+    <color name="fabEditar">#FFC107</color>
+    <color name="background">#E3E4E2</color>
+</resources>
